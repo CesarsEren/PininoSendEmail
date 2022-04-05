@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<head>
+
+    <meta id="testViewport" name="viewport" http-equiv="Content-Type"
+          content="charset=utf-8, width=device-width, shrink-to-fit=no">
+
+    <title>Vale digital ${eml.empresaName}</title>
+
+    <link rel="icon" href="https://beebeneficios.com.pe/rsc/mail/favicon.png" type="image/png"/>
+
+</head>
+
+<body width="800px" align="center"
+      style=" color: #2B2922; max-width: 800px; padding: 0; margin:0 auto; border-collapse: collapse; font-family: Arial; font-size: 16px; text-align: left; min-width:800px; width:800px;">
+
+<table id="p1" width="800px" align="center"
+       style="color: #2B2922; background-color: #FFFDF8; max-width: 800px; border-collapse: collapse; font-family: Arial; font-size: 16px; text-align: left; min-width:800px; width:800px;">
+
+    <tbody>
+
+    <tr>
+
+        <td>
+
+            <!-- Header -->
+
+            <div style="">
+
+                <table width="752px" align="center"
+                       style="color: #2B2922; max-width: 752px; border-collapse: collapse; font-family: Arial; font-size: 16px; text-align: left; min-width:752px; width:752px;">
+
+                    <tbody>
+
+                    <tr>
+
+                        <td>
+
+                            <p style="margin-bottom: 24px; margin-top: 24px; text-align: center; line-height: 24px; font-size: 16px;">
+                                Para que nuestros correos lleguen a tu bandeja principal,<br>
+                                agr&eacute;ganos a tus contactos como
+                                <a href="mailto:clientes@bee.com.pe"
+                                   style="font-size: 16px; font-weight: bold; line-height: 24px; color: #2B2922; font-family: Arial, sans-serif;">
+                                    clientes@bee.com.pe</a>
+                            </p>
+
+                        </td>
+
+                    </tr>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+            <!-- Body -->
+
+            <table width="752px" align="center"
+                   style="background-color: #F8F8F8;; color: #2B2922; border-collapse: collapse; font-family: Arial; font-size: 16px; text-align: left; min-width:752px; width:752px;">
+
+                <tbody>
+
+                <tr>
+
+                    <td>
+
+                        <center>
+
+                            <div style="margin-top: 56px; margin-bottom: 56px;">
+
+                                <img src="https://beebeneficios.com.pe/rsc/mail/rsc/BB-Logo-confirma.png" alt="">
+
+                            </div>
+
+                            <p style="margin-top: 40px; font-family: Arial; font-style: normal; font-weight: bold; font-size: 24px; line-height: 32px; color: #2B2922;">
+
+                                Vale digital <span id="Marca1" style="">${eml.empresaName}</span>
+
+                            </p>
+
+                            <div style="margin-top: 62px; margin-bottom: 62px;">
+
+                                <img src="${eml.empresaLogo}" alt="">
+
+                            </div>
+
+                            <p style="margin-bottom: 40px; font-family: Arial; font-style: normal; font-weight: normal; font-size: 24px; line-height: 32px; color: #2B2922; font-weight: normal;">
+
+                                &#161;Hola <span id="Nombre">${eml.userName}</span>&#33; Tu vale digital <span
+                                    id="Marca2" style="">${eml.empresaName}</span> se encuentra<br>
+                                adjunto en este correo. &#161;Te esperamos de vuelta pronto&#33;
+                            </p>
+
+                            <p style="text-align: center; font-family: Arial; font-style: normal; font-weight: normal; font-size: 16px; line-height: 24px; color: #9B9A97;">
+                                Por favor no respondas a este correo, ya que <br> no podremos procesar tu respuesta por
+                                esta v&iacute;a.
+                            </p>
+
+                            <table width="560px" align="center" style="color: #9B9A97; min-width: 560px; width:74px;">
+
+                                <tbody>
+
+                                <tr>
+
+                                    <td>
+
+                                        <hr size="1px" style="margin-top: 40px; margin-bottom: 40px;" color="#9B9A97"/>
+
+                                    </td>
+
+                                </tr>
+
+                                </tbody>
+
+                            </table>
+
+                            <p style="margin-right: 48px; margin-left: 48px; font-size:20px; line-height: 24px;">
+
+                                <b>&#191;Necesitas ayuda&#63;</b><br>
+                                Comun&iacute;cate con nosotros&#58;
+
+                            </p>
+
+                            <p style="margin-top: 24px; margin-right: 48px; margin-left: 48px; font-size:20px; line-height: 24px;">
+
+                                <a href="tel: 992192643"
+                                   style="font-style: normal; font-weight: bold; font-size: 20px; line-height: 24px; text-align: center; color: #2B2922; text-decoration-line: underline;">
+
+                                    973 249 489</a>
+
+                            </p>
+
+                            <p style="margin-top: 24px; margin-right: 48px; margin-left: 48px; font-size:20px; line-height: 24px;">
+
+                                <a href="tel: 992192643"
+                                   style=" font-style: normal; font-weight: bold; font-size: 20px; line-height: 24px; text-align: center; color: #2B2922; text-decoration-line: underline;">
+
+                                    992 192 643</a>
+
+                            </p>
+
+                            <p style="margin-top: 24px; margin-right: 48px; margin-left: 48px; font-size:20px; line-height: 24px;">
+
+                                <a href="mailto:hola@bee.com.pe"
+                                   style="font-style: normal; font-weight: bold; font-size: 20px; line-height: 24px; text-align: center; color: #2B2922;">
+
+                                    hola@bee.com.pe</a>
+
+                            </p>
+
+                            <table width="560px" align="center" style="color: #9B9A97; min-width: 560px; width:74px;">
+
+                                <tbody>
+
+                                <tr>
+
+                                    <td>
+
+                                        <hr size="1px" style="margin-top: 40px; margin-bottom: 40px;" color="#9B9A97"/>
+
+                                    </td>
+
+                                </tr>
+
+                                </tbody>
+
+                            </table>
+
+                            <!-- Footer -->
+
+                            <p class="d1"
+                               style="margin-left: 48px; margin-right: 48px; line-height: 24px; font-family: Arial; font-size: 16px; text-align: center; color: #2B2922;">
+                                Enviado por LEALVA S.A.C., Flat Beehive II, Av. Arenales 1912, oficina 903, <br> Lince,
+                                Lima - Per&uacute;.
+                            </p>
+
+                            <p class="d2"
+                               style="margin-bottom: 40px; margin-left: 48px; margin-right: 48px; line-height: 20px; font-family: Arial; font-size: 16px; text-align: center; color: #2B2922;">
+                                &#169; 2020 beeBeneficios. Todos los derechos reservados.
+                            </p>
+
+                        </center>
+
+                    </td>
+
+                </tr>
+
+                </tbody>
+
+            </table>
+
+            <a><br></a>
+
+        </td>
+
+    </tr>
+
+    </tbody>
+
+</table>
+
+</body>
+
+</html>
